@@ -1,0 +1,22 @@
+{
+  "name": "living-room-chess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamincoop/Living-Room-Chess.git"
+  },
+  "author": "Benjamin Cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjamincoop/Living-Room-Chess/issues"
+  },
+  "homepage": "https://github.com/benjamincoop/Living-Room-Chess#readme",
+  "devDependencies": {
+    "express": "^4.18.1"
+  }
+}
