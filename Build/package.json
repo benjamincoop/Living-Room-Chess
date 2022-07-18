@@ -1,0 +1,17 @@
+{
+  "name": "living-room-chess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Cooper",
+  "license": "all rights reserved",
+  "devDependencies": {
+    "express": "^4.18.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}

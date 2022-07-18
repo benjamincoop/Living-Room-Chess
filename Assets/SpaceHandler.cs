@@ -18,6 +18,6 @@ public class SpaceHandler : MonoBehaviour
 
     void OnMouseDown()
     {
-        GameManager.Instance.SelectedSpace = gameObject;
+        GameManager.Instance.SelectSpace(gameObject);
     }
 }
